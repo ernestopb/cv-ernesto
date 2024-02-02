@@ -18,11 +18,11 @@
   Git, SEO, WordPress, IoT
 
 ## Educación
-- # Diseño y Programación Web
+- ### Diseño y Programación Web
   Escuela Da Vinci 2021 - 2024
-- # Filosofía
+- ### Filosofía
   Universidad de Buenos Aires, Facultad de Letras y Filosofía 2017 - 2020
-- # Física
+- ### Física
   Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales 2012 - 2016
 
 ## Perfil
